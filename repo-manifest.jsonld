@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sunpy/streamtracer/commit/fdd618e518f9704f6a1ac3a8d341514cb61afc69",
       "git:hexsha": "fdd618e518f9704f6a1ac3a8d341514cb61afc69",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2.7.0"
     },
     {
