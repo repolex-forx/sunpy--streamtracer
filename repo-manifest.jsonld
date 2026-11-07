@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/sunpy/streamtracer/commit/fdd618e518f9704f6a1ac3a8d341514cb61afc69",
       "git:hexsha": "fdd618e518f9704f6a1ac3a8d341514cb61afc69",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.7.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.7.0",
+      "repolex:parsedAt": "2026-11-07T00:51:21.591022+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sunpy/streamtracer/commit/9135e549c18e79349ea56e387f2bef95892bc58b",
