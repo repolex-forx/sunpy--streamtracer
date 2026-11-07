@@ -1,0 +1,11 @@
+{
+  "org": "sunpy",
+  "repo": "streamtracer",
+  "versions": [
+    {
+      "commit": "fdd618e518f9704f6a1ac3a8d341514cb61afc69",
+      "tag": "v2.7.0",
+      "parsed_at": "2026-11-07T00:51:21.591760+00:00"
+    }
+  ]
+}
